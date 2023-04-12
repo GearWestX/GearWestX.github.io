@@ -4,6 +4,7 @@ First Wordpress portfolio made with a simple simple Astra Theme, Elementor and m
 
 ### To see it live [Click Here](https://gearwestx.github.io/WPportfolio/)
 
+### [Click Here to take a look at my updated portfolio👁👄👁](https://dev-portfolio-with-nextjs.vercel.app/)
 
 # Quick summary
 
